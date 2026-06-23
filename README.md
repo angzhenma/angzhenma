@@ -10,4 +10,4 @@ Mainly working on Web Application Development. Doing my best to learn and gain i
 
 - 🎮 Counter-Strike is my favorite video game.
 - ⚡ I'm not a coffee person. Music is my fuel.
-- 📺 I used to be a YouTuber under the name "Penxive".
+- 📺 I used to be a YouTuber under the name "[Penxive](https://youtube.com/penxive)".
