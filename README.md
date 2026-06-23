@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 My name is Azaan. I am a Maldivian Software Engineer who studied and was raised in Malaysia.
 
