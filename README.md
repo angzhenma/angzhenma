@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Azaan. I am a Maldivian software engineer who was raised and studied in Malaysia.
+My name is Azaan. I am a Maldivian Software Engineer who studied and was raised in Malaysia.
 
 Mainly working on Web Application Development. Doing my best to learn and gain industry experience after getting my Bachelor's Degree.
 
