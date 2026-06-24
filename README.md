@@ -6,9 +6,9 @@ Mainly working on Web Application Development. Doing my best to learn and gain i
 
 ---
 
-### A Bit About Me
+### Fun Facts About Me
 
 - 🎮 Counter-Strike is my favorite video game.
 - ⚡ I'm not a coffee person. Music is my fuel.
-- 📺 I used to be a YouTuber under the name "[Penxive](https://youtube.com/penxive)".
+- 📺 I used to be a YouTuber under the name [Penxive](https://youtube.com/penxive).
 - 🇵🇭 I have some Filipino heritage.
